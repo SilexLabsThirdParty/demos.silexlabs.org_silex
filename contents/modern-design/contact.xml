@@ -1,0 +1,76 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="0" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/Geometry.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Geometry</html5Url>
+					<className>org.silex.ui.Rectangle</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Rectangle]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">4</y>
+						<x type="Integer">681</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">33</height>
+						<width type="Integer">101</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<nbSides type="Integer">6</nbSides>
+						<nbBranches type="Integer">5</nbBranches>
+						<rInterne type="Integer">25</rInterne>
+						<miterLimit type="Integer">3</miterLimit>
+						<jointStyle><![CDATA[round]]></jointStyle>
+						<capsStyle><![CDATA[none]]></capsStyle>
+						<noScale><![CDATA[normal]]></noScale>
+						<pixelHinting type="Boolean">true</pixelHinting>
+						<shape><![CDATA[Rectangle]]></shape>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<fusionMode><![CDATA[substract]]></fusionMode>
+						<dropShadowBlurY type="Integer">0</dropShadowBlurY>
+						<dropShadowBlurX type="Integer">0</dropShadowBlurX>
+						<dropShadowAngle type="Integer">0</dropShadowAngle>
+						<dropShadowDistance type="Integer">5</dropShadowDistance>
+						<dropShadowColor type="Integer">0</dropShadowColor>
+						<dropShadowAlpha type="Integer">1</dropShadowAlpha>
+						<dropShadow type="Boolean">false</dropShadow>
+						<gradientRotation type="Integer">0</gradientRotation>
+						<gradientRatio type="Array">
+							<item type="Integer">0</item>
+							<item type="Integer">255</item>
+						</gradientRatio>
+						<gradientAlpha type="Array">
+							<item type="Integer">100</item>
+							<item type="Integer">100</item>
+						</gradientAlpha>
+						<gradientColors type="Array">
+							<item type="Integer">12237498</item>
+							<item type="Integer">6316128</item>
+						</gradientColors>
+						<bitmapFillSmooth type="Boolean">false</bitmapFillSmooth>
+						<bitmapFillRepeat type="Boolean">true</bitmapFillRepeat>
+						<bitmapFillUrl><![CDATA[plugins/baseComponents/geometry_tile.swf]]></bitmapFillUrl>
+						<fill><![CDATA[solid]]></fill>
+						<bgColor type="Integer">3355443</bgColor>
+						<bgAlpha type="Integer">80</bgAlpha>
+						<borderAlpha type="Integer">100</borderAlpha>
+						<lineThickness type="Integer">1</lineThickness>
+						<borderColor type="Integer">16711680</borderColor>
+						<border type="Boolean">false</border>
+						<BLcornerRadius type="Integer">10</BLcornerRadius>
+						<BRcornerRadius type="Integer">10</BRcornerRadius>
+						<TRcornerRadius type="Integer">10</TRcornerRadius>
+						<TLcornerRadius type="Integer">10</TLcornerRadius>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

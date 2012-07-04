@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>start</title>
+		<pubDate>Fri Jun 8 13:59:00 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>button_spot_menu</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="16" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0">button_spot_menu</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>menu</iconPageName>
+				<text>button_spot_menu </text>
+				<links>
+					<link>
+						<title>menu</title>
+						<link>menu</link>
+						<deeplink>menu</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>button_spot_login</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="14" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0">spot login.flag</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>login.flag</iconPageName>
+				<text>spot login.flag </text>
+				<links>
+					<link>
+						<title>login.flag</title>
+						<link>login.flag</link>
+						<deeplink>login.flag</deeplink>
+					</link>
+				</links>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

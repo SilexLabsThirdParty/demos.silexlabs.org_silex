@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>manage</title>
+		<pubDate>Fri Jun 8 13:59:01 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>RichTextList_01_site</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>button_help.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>RichTextListContentFolder</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>Text</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="ARIAL" SIZE="20" COLOR="#333333" LETTERSPACING="0" KERNING="0">((<<silex.paramsFile.manage:title:1>>))</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>BackgroundListManage</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>DataSelector_site</playerName>
+				<className>org.oof.dataUsers.DataSelector</className>
+				<iconIsIcon>true</iconIsIcon>
+				<iconPageName>manage.edit</iconPageName>
+				<iconDeeplinkName><![CDATA[manage.edit.<<DataSelector_site.selectedItem.title>>]]></iconDeeplinkName>
+				<deeplinkFormat><![CDATA[manage.edit.<<DataSelector_site.selectedItem.title>>]]></deeplinkFormat>
+				<connectorName>RssConnector_site</connectorName>
+				<formName><![CDATA[<<silex.config.dataSelectorSource>>]]></formName>
+				<cellFormat><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">((<<title>>))</FONT></P>]]></cellFormat>
+				<links>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">actions</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">businesscard2</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">card_tutoisa</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">cvnico</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">cvnico2</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">essai</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">homepage_silex</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">menudynamic</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">menudynamic_duplik</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">newpourtestcomposant</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">silex-business-card</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">slideshow</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">slideshow_2</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">slideshow_2duplik</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">slideshow_playlist</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">template</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">test_seo_plugin</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">testcomponent</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">testcomposants</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">tutoplein_ecran</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+					<link>
+						<title><![CDATA[<P ALIGN="left"><FONT FACE="Arial" SIZE="12" COLOR="#63594D">tutovideo</FONT></P>]]></title>
+						<link>manage.edit</link>
+						<deeplink>manage.edit.homepage_silex</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>RssConnector_site</playerName>
+				<className>org.oof.dataConnectors.RssConnector</className>
+				<iconIsIcon>false</iconIsIcon>
+				<urlBase><![CDATA[<<silex.rootUrl>>cgi/scripts/]]></urlBase>
+			</component>
+			<component>
+				<playerName>listUi_manager_haut.cmp.swf</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>listUi_manager_bas.cmp.swf</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>label_btn_plus_03.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037"><<silex.paramsFile.btn:nav:manage>></FONT></p>]]></htmlEquivalent>
+				<iconPageName>manage1</iconPageName>
+				<text><![CDATA[> ]]></text>
+				<links>
+					<link>
+						<title>manage1</title>
+						<link>manage1</link>
+						<deeplink>manage1</deeplink>
+					</link>
+				</links>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

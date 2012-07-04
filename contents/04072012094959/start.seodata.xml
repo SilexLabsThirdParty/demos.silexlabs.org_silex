@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>start</title>
+		<pubDate>Thu Jun 28 16:26:28 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>Footer</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Copyright 2048 <FONT COLOR="#FFFFFF"><U>Your Compagny Name</U><FONT COLOR="#006600"> </FONT></FONT>  <FONT COLOR="#FFFFFF"><U>Website templates</U><FONT COLOR="#006600"> </FONT></FONT>by<FONT COLOR="#006600"> <FONT COLOR="#FFFFFF"><U>Silex</U></FONT></FONT></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Copyright 2048 Your Compagny Name     Website templates   by Silex   </text>
+			</component>
+			<component>
+				<playerName>BoutonContact</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>contact</iconPageName>
+				<context>*</context>
+				<text>Contact </text>
+				<links>
+					<link>
+						<title>contact</title>
+						<link>contact</link>
+						<deeplink>contact</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>BoutonGallerie</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>gallerie</iconPageName>
+				<context>*</context>
+				<text>Gallerie </text>
+				<links>
+					<link>
+						<title>gallerie</title>
+						<link>gallerie</link>
+						<deeplink>gallerie</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>BoutonServices</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>services</iconPageName>
+				<context>*</context>
+				<text>Services </text>
+				<links>
+					<link>
+						<title>services</title>
+						<link>services</link>
+						<deeplink>services</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>BoutonAbout</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>about</iconPageName>
+				<context>*</context>
+				<text>About </text>
+				<links>
+					<link>
+						<title>about</title>
+						<link>about</link>
+						<deeplink>about</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>BoutonHome</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<iconPageName>home</iconPageName>
+				<context>*</context>
+				<text>Home </text>
+				<links>
+					<link>
+						<title>home</title>
+						<link>home</link>
+						<deeplink>home</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>Footer</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>templatemo_content</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="templatemo_content" src="../../media/wall_shelf/templatemo_content02.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>logo</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="logo" src="../../media/wall_shelf/templatemo_logo.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>header01</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="header01" src="../../media/wall_shelf/templatmeo_header02.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>bg_menu</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="bg_menu" src="../../media/wall_shelf/templatemo_menu_bg.png">]]></htmlEquivalent>
+				<iconPageName>Home</iconPageName>
+				<context>*</context>
+				<links>
+					<link>
+						<title>home</title>
+						<link>home</link>
+						<deeplink>home</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>bg_menu2</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="bg_menu2" src="../../media/wall_shelf/templatemo_menu_bg.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>bg_menu3</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="bg_menu3" src="../../media/wall_shelf/templatemo_menu_bg.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>bg_menu4</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="bg_menu4" src="../../media/wall_shelf/templatemo_menu_bg.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>bg_menu5</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="bg_menu5" src="../../media/wall_shelf/templatemo_menu_bg.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>header02</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="header02" src="../../media/wall_shelf/templatemo_menu_02.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

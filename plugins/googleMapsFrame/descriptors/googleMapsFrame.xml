@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentDescriptor version="1.0">
+	<componentName>GoogleMapsFrame</componentName>
+	<as2Url>as2/org.silex.ui.players.AsGoogleMapsFrame.swf</as2Url>
+	<html5Url>html5#org.silex.ui.AsGoogleMapsFrame</html5Url>
+	<className>org.silex.ui.players.AsGoogleMapsFramePlayerLocation</className>
+	<specificEditorUrl>editors/GoogleMapsFrame.swf</specificEditorUrl>
+	<parentDescriptorClassName>flash.MovieClip</parentDescriptorClassName>
+	<componentRoot>main</componentRoot>
+	<metaData>
+		<pluginRelativeUrl>plugins/googleMapsFrame/</pluginRelativeUrl>
+		<addComponentParams>
+			<name>googleMapsFrame</name>
+			<uid>silex.AddComponent.ToolItem.AddGoogleMapsFrame</uid>
+			<groupUid>silex.AddComponent.ToolItemGroup.Frames</groupUid>
+			<toolUid>silex.AddComponent.Tool</toolUid>
+			<label>Google Maps</label>
+			<description>Add Google Maps Frame</description>
+			<level>10</level>
+			<action>addComponent</action>
+			<iconUrl>icons/googlemaps.swf</iconUrl>
+		</addComponentParams>
+	</metaData>
+	<properties>
+	<width>
+			<type>Float</type>
+			<minValue>0</minValue>
+			<maxValue>2880</maxValue>
+			<description>PROPERTIES_LABEL_WIDTH</description>
+			<defaultValue>480</defaultValue>
+			<isRegistered>true</isRegistered>
+			<group>attributes</group>
+		</width>		
+		<height>
+			<type>Float</type>
+			<minValue>0</minValue>
+			<maxValue>2880</maxValue>
+			<description>PROPERTIES_LABEL_HEIGHT</description>	
+			<defaultValue>390</defaultValue>
+			<isRegistered>true</isRegistered>
+			<group>attributes</group>		
+		</height>
+		<googleMapsUrl>
+			<type>String</type>
+			<defaultValue>http://maps.google.fr/maps/ms?ie=UTF8&amp;hl=fr&amp;msa=0&amp;ll=48.857035,2.422485&amp;spn=0.087418,0.222988&amp;z=13&amp;iwloc=00049d5a24d2e385a0bc9&amp;msid=215046598633937034241.00049d5a19f4dc73484d1</defaultValue>
+			<description>Google Maps Permalink</description>
+		</googleMapsUrl>
+	</properties>
+</componentDescriptor>

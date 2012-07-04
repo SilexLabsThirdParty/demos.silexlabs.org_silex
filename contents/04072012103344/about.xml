@@ -1,0 +1,45 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="0" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[About]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">359</y>
+						<x type="Integer">153</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Float">378.5</height>
+						<width type="Float">716</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="25" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0">Lorem Ipsum is simply dummy,<FONT SIZE="15"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<FONT COLOR="#5A5A5A"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="25" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0">Contrary to popular belief, <FONT SIZE="15" COLOR="#5A5A5A"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &quot;de Finibus Bonorum et Malorum&quot; (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, &quot;Lorem ipsum dolor sit amet..&quot;, comes from a line in section 1.10.32.<FONT COLOR="#5A5A5A"></FONT></FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

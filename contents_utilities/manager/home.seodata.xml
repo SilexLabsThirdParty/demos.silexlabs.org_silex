@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>home</title>
+		<pubDate>Fri Jun 1 11:20:22 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>TextWelcome</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="ARIAL" SIZE="20" COLOR="#333333" LETTERSPACING="0" KERNING="0">((&lt;&lt;silex.paramsFile.text:home:title&gt;&gt;))</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<text><![CDATA[((<<silex.paramsFile.text:home:title>>)) ]]></text>
+			</component>
+			<component>
+				<playerName>FondNewPublication</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>listUi_gauche</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>listUi_droite</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>PlayListUi_previous1</playerName>
+				<className>org.oof.ui.PlayListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>PlayListUi_next1</playerName>
+				<className>org.oof.ui.PlayListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>filetvertical</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>filethorizontal</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>RichTextList_system</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>label_btn_plus_04.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="15" COLOR="#3B3024">((<<silex.paramsFile.btn:home:newWebsite:3>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>label_btn_plus_04.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="15" COLOR="#3B3024">((<<silex.paramsFile.btn:home:newWebsite:4>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>label_btn_plus_04.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="15" COLOR="#3B3024">((<<silex.paramsFile.btn:home:last:2>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>label_btn_plus_04.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="15" COLOR="#3B3024">((<<silex.paramsFile.btn:home:last:1>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>Text</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">((&lt;&lt;silex.paramsFile.text:home:last&gt;&gt;))</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<text><![CDATA[((<<silex.paramsFile.text:home:last>>)) ]]></text>
+			</component>
+			<component>
+				<playerName>RssConnector_lastSites</playerName>
+				<className>org.oof.dataConnectors.RssConnector</className>
+				<iconIsIcon>false</iconIsIcon>
+				<urlBase><![CDATA[<<silex.rootUrl>>cgi/scripts/]]></urlBase>
+			</component>
+			<component>
+				<playerName>ImageDisplay_lastSites</playerName>
+				<className>org.oof.dataIos.displays.ImageDisplay</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>RichTextList_lastSites</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>DataSelector_lastSites</playerName>
+				<className>org.oof.dataUsers.DataSelector</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>button_help.swf</playerName>
+				<className>org.oof.dataConnectors.RssConnector</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>Text_lastSites</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p></p>]]></htmlEquivalent>
+			</component>
+			<component>
+				<playerName>button_help.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>label_btn_plus_04.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="15" COLOR="#3B3024"><b><<silex.paramsFile.btn:home:newWebsite:1>> <<silex.paramsFile.btn:home:newWebsite:2>></b></FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[> > ]]></text>
+			</component>
+			<component>
+				<playerName>TitreSystem</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="ARIAL" SIZE="20" COLOR="#A63E26"><P ALIGN="CENTER"><b>((<<silex.paramsFile.text:home:system>></b></P></FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((> ]]></text>
+			</component>
+			<component>
+				<playerName>TitreAdminitration</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="20" COLOR="#3B3024"><P ALIGN="CENTER"><b>((<<silex.paramsFile.text:home:administration>></P></b></FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((> ]]></text>
+			</component>
+			<component>
+				<playerName>RichTextList_02_tips</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>RssConnector_tips</playerName>
+				<className>org.oof.dataConnectors.RssConnector</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>DataSelector_tips</playerName>
+				<className>org.oof.dataUsers.DataSelector</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

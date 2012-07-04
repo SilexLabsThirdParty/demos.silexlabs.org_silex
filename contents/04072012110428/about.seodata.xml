@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>about</title>
+		<pubDate>Thu Oct 27 15:57:10 GMT+0200 2011</pubDate>
+		<components>
+			<component>
+				<playerName>Rectangle</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

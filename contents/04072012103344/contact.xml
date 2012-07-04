@@ -1,0 +1,62 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="0" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/googleMapsFrame/as2/org.silex.ui.players.AsGoogleMapsFrame.swf</as2Url>
+					<html5Url>plugins/googleMapsFrame/html5#org.silex.ui.AsGoogleMapsFrame</html5Url>
+					<className>org.silex.ui.players.AsGoogleMapsFramePlayerLocation</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[googleMapsFrame]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">368.5</y>
+						<x type="Integer">457</x>
+						<alpha type="Integer">100</alpha>
+						<googleMapsUrl><![CDATA[http://maps.google.fr/maps/ms?ie=UTF8&hl=fr&msa=0&ll=48.857035,2.422485&spn=0.087418,0.222988&z=13&iwloc=00049d5a24d2e385a0bc9&msid=215046598633937034241.00049d5a19f4dc73484d1]]></googleMapsUrl>
+						<height type="Integer">364</height>
+						<width type="Integer">380</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Contact]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">366</y>
+						<x type="Integer">176</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Float">355.5</height>
+						<width type="Integer">385</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="25" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="25" COLOR="#FFFFFF" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Silex Labs</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">138, Rue de Vincennes</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">93310 Montreuil</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">FRANCE</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Email : <A HREF="mailto:contact@silexlabs.org" TARGET="_blank">contact@silexlabs.org</A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Tel : 0123456789</FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

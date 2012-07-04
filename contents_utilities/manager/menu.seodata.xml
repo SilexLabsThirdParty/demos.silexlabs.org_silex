@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>menu</title>
+		<pubDate>Fri Jun 8 13:59:01 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>BarHaut2</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>BarHaut1</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>BarBas</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>FondMain</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>logo</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="192" height="54.3" ><param name="movie" value="../../../media/manager/design/logo.swf" /><param name="quality" value="best" /><param name="bgcolor" value="#46505a" /><embed src = "../../../media/manager/design/logo.swf" quality = "best" bgcolor = "#46505a" width = "192" height = "54.3" type = "application/x-shockwave-flash" pluginspage = "http://www.macromedia.com/go/getflashplayer" /></object>]]></htmlEquivalent>
+			</component>
+			<component>
+				<playerName>DataSelector_system</playerName>
+				<className>org.oof.dataUsers.DataSelector</className>
+				<iconIsIcon>true</iconIsIcon>
+				<iconPageName>system</iconPageName>
+				<iconDeeplinkName><![CDATA[system.<<DataSelector_system.selectedItem.name>>]]></iconDeeplinkName>
+				<deeplinkFormat><![CDATA[system.<<DataSelector_system.selectedItem.name>>]]></deeplinkFormat>
+				<connectorName>connector</connectorName>
+				<cellFormat><![CDATA[<<label>>]]></cellFormat>
+			</component>
+			<component>
+				<playerName>Date</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="RIGHT"><FONT FACE="arial" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="0">((<<silex.utils.DAY>> <<silex.utils.DD>> <<silex.utils.MONTH>> <<silex.utils.YEAR>> <<silex.utils.HH>>h<<silex.utils.MMIN>>))</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<text><![CDATA[((> > > > >h>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbasdroite2</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:community:translation>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbasdroite1</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:community:mailingList>>))</FONT></p>]]></htmlEquivalent>
+				<iconPageName>mailing.list</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>mailing.list</title>
+						<link>mailing.list</link>
+						<deeplink>mailing.list</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>btnbas5</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:links:themes>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbas4</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:links:help>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbas3</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:links:blog>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbas2</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:links:forum>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>btnbas1</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="12" COLOR="#474037">((<<silex.paramsFile.btn:menu:links:website>>))</FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+			<component>
+				<playerName>logout</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="28" height="28" ><param name="movie" value="../../../media/manager/components/logout.cmp.swf" /><param name="quality" value="best" /><param name="bgcolor" value="#46505a" /><embed src = "../../../media/manager/components/logout.cmp.swf" quality = "best" bgcolor = "#46505a" width = "28" height = "28" type = "application/x-shockwave-flash" pluginspage = "http://www.macromedia.com/go/getflashplayer" /></object>]]></htmlEquivalent>
+			</component>
+			<component>
+				<playerName>label_btn_plus_01.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT><b>((<<silex.paramsFile.btn:menu:home>>))</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>home</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>home</title>
+						<link>home</link>
+						<deeplink>home</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>label_btn_plus_01.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT><b>((<<silex.paramsFile.btn:menu:create>>))</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>create</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>create</title>
+						<link>create</link>
+						<deeplink>create</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>label_btn_plus_01.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT><b>((<<silex.paramsFile.btn:menu:manage>>))</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>manage</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>manage</title>
+						<link>manage</link>
+						<deeplink>manage</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>label_btn_plus_01.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT><b>((<<silex.paramsFile.btn:menu:settings>>))</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>settings</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>settings</title>
+						<link>settings</link>
+						<deeplink>settings</deeplink>
+					</link>
+				</links>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

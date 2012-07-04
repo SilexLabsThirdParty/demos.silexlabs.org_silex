@@ -1,0 +1,5 @@
+<?php
+$conf['versionXml'] = '<?xml version="1.0" encoding="utf-8"?>
+<SilexElement version="V1" id="2619"><compatibleVersions><compatibleVersion><![CDATA[v1.6.0]]></compatibleVersion><compatibleVersion><![CDATA[v1.6.1]]></compatibleVersion></compatibleVersions><dependencies/><folder name="plugins"><folder name="googleMapsFrame"><folder name="editors"><file name="GoogleMapsFrame.swf" signature="407aaa398cb78ecfdc89909e52263302d267a95b"/></folder><folder name="descriptors"><file name="googleMapsFrame.xml" signature="e6267c85abf76d194321ba30d423ce9355395928"/></folder><folder name="as2"><file name="org.silex.ui.players.AsGoogleMapsFrame.swf" signature="344c237ef097b0b8c230c974fca9ef8637d382aa"/></folder><folder name="icons"><file name="googlemaps.swf" signature="de53443e662d1f4a63e31145567995a6ad6e99b8"/></folder><file name="plugin.png" signature="ddaa6512374ab6df630044e272135f7aec8b0dd8"/><file name="index.php" signature="7b0e2804eea78a84386dc26019f5ad8f8c69bbf5"/></folder></folder></SilexElement>
+';
+?>

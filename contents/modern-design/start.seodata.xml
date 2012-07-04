@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>start</title>
+		<pubDate>Thu Oct 27 16:02:37 GMT+0200 2011</pubDate>
+		<components>
+			<component>
+				<playerName>logoRectangle</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>LabelButtonCONTACT</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="_sans" COLOR="#999999" SIZE="18" LETTERSPACING="-2"><b>CONTACT</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>contact</iconPageName>
+				<context>*</context>
+				<text>CONTACT </text>
+				<links>
+					<link>
+						<title>contact</title>
+						<link>contact</link>
+						<deeplink>contact</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>LabelButtonBLOG</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="_sans" COLOR="#999999" SIZE="18" LETTERSPACING="-2"><b>BLOG</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>blog</iconPageName>
+				<iconDeeplinkName>blog</iconDeeplinkName>
+				<context>*</context>
+				<text>BLOG </text>
+				<links>
+					<link>
+						<title>blog</title>
+						<link>blog</link>
+						<deeplink>blog</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>LabelButtonWORK</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="_sans" COLOR="#999999" SIZE="18" LETTERSPACING="-2"><b>WORK</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>work</iconPageName>
+				<iconDeeplinkName>work</iconDeeplinkName>
+				<context>*</context>
+				<text>WORK </text>
+				<links>
+					<link>
+						<title>work</title>
+						<link>work</link>
+						<deeplink>work</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>LabelButtonABOUT</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="_sans" COLOR="#999999" SIZE="18" LETTERSPACING="-2"><b>ABOUT</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>about</iconPageName>
+				<iconDeeplinkName>about</iconDeeplinkName>
+				<context>*</context>
+				<text>ABOUT </text>
+				<links>
+					<link>
+						<title>about</title>
+						<link>about</link>
+						<deeplink>about</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>LabelButtonHOME</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="_sans" COLOR="#999999" SIZE="18" LETTERSPACING="-2"><b>HOME</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>home</iconPageName>
+				<iconDeeplinkName>home</iconDeeplinkName>
+				<context>*</context>
+				<text>HOME </text>
+				<links>
+					<link>
+						<title>home</title>
+						<link>home</link>
+						<deeplink>home</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>Logo1</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="Logo1" src="../../media/modern-design/Logo1.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>logotext</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="18" COLOR="#000000" LETTERSPACING="-1" KERNING="0">[[<FONT SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">onRelease open:/start/home </FONT><B>FICTIONAL</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-6"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="26" COLOR="#000000" LETTERSPACING="-2" KERNING="0"><B>DESIGN</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="26" COLOR="#000000" LETTERSPACING="-2" KERNING="0"><B>STUDIO</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="15" COLOR="#5A5A5A" LETTERSPACING="0" KERNING="1">]]</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>[[onRelease open:/start/home  FICTIONAL DESIGN STUDIO ]] </text>
+			</component>
+			<component>
+				<playerName>Logotexteffect</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="18" COLOR="#999999" LETTERSPACING="-1" KERNING="0"><B>FICTIONAL</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="-6"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="26" COLOR="#999999" LETTERSPACING="-2" KERNING="0"><B>DESIGN</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="26" COLOR="#999999" LETTERSPACING="-2" KERNING="0"><B>STUDIO</B></FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>FICTIONAL DESIGN STUDIO </text>
+			</component>
+			<component>
+				<playerName>headerRectangle</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>headertexture</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="headertexture" src="../../media/modern-design/Header-texture.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>twitterbirds</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="twitterbirds" src="../../media/modern-design/twitter-birds.png">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>twitterLabelButton</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT COLOR="#CCCCCC">Follow us on Twitter</FONT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text>Follow us on Twitter </text>
+			</component>
+			<component>
+				<playerName>twitterRectangle</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>footerText</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="_sans" SIZE="12" COLOR="#999999" LETTERSPACING="0" KERNING="0">2010 © Fictional Design Studio. Design by Tomas Laurinavičius.</FONT></P></TEXTFORMAT></p>]]></htmlEquivalent>
+				<context>*</context>
+				<text><![CDATA[2010 © Fictional Design Studio. Design by Tomas Laurinavičius. ]]></text>
+			</component>
+			<component>
+				<playerName>footerRectangle</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>footertexture</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="footertexture" src="../../media/modern-design/Header-texture.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+			<component>
+				<playerName>backgroundtexture</playerName>
+				<className>org.silex.ui.players.Image</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<img name="backgroundtexture" src="../../media/modern-design/background-texture.jpg">]]></htmlEquivalent>
+				<context>*</context>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

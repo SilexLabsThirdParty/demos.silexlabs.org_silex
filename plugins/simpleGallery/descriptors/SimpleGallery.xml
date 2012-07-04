@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<componentDescriptor version="1.0">
+	<componentName>SimpleGallery</componentName>
+	<as2Url>as2/SimpleGallery.swf</as2Url>
+	<className>org.silex.ui.SimpleGallery</className>
+	<specificEditorUrl>editors/SimpleGallery.swf</specificEditorUrl>
+	<parentDescriptorClassName>org.silex.ui.SimpleGalleryBase</parentDescriptorClassName>
+	<componentRoot>main</componentRoot>
+	<metaData>
+		<pluginRelativeUrl>plugins/simpleGallery/</pluginRelativeUrl>
+			<addComponentParams>
+				<name>SimpleGallery</name>
+				<uid>silex.AddComponent.ToolItem.AddSimpleGallery</uid>
+				<groupUid>silex.AddComponent.ToolItemGroup.Images</groupUid>
+				<toolUid>silex.AddComponent.Tool</toolUid>
+				<label>LABEL_SIMPLE_GALLERY</label>
+				<description>DESCRIPTION_SIMPLE_GALLERY</description>
+				<level>1</level>
+				<action>addSkinnableComponent</action>
+				<iconUrl>icon/simplegallery.swf</iconUrl>
+				<skins>
+				<skin>
+					<label>SimpleGallery</label>
+					<description>SimpleGallery</description>
+					<url>as2/SimpleGallery.swf</url>
+				</skin>
+			</skins>
+			</addComponentParams>
+	</metaData>
+	<properties>
+	</properties>
+</componentDescriptor>

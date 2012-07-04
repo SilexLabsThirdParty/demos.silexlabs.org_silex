@@ -1,0 +1,187 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="3" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Text23]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">114</y>
+						<x type="Integer">291</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">482</height>
+						<width type="Integer">247</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="7"><FONT FACE="_sans" SIZE="18" COLOR="#000000" LETTERSPACING="-1" KERNING="0"><B>EFFECTIVE</B></FONT></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#CCCCCC" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="7"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="11" COLOR="#333333" LETTERSPACING="0" KERNING="0">WebDesignFan is a design related blog about web design, photoshop, freebies and tutorials. We publish useful information dedicated to web designers and developers. Here you can find free resources like vectors, wordpress themes and a lot of inspiration.</FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Text22]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">114</y>
+						<x type="Integer">555</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">482</height>
+						<width type="Integer">244</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="7"><FONT FACE="_sans" SIZE="18" COLOR="#000000" LETTERSPACING="-1" KERNING="0"><B>FUNCTIONAL</B></FONT></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#CCCCCC" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="7"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="11" COLOR="#333333" LETTERSPACING="0" KERNING="0">WebDesignFan is a design related blog about web design, photoshop, freebies and tutorials. We publish useful information dedicated to web designers and developers. Here you can find free resources like vectors, themes and a lot of inspiration.</FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Text2]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">114</y>
+						<x type="Integer">30</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">482</height>
+						<width type="Integer">239</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="7"><FONT FACE="_sans" SIZE="18" COLOR="#000000" LETTERSPACING="-1" KERNING="0"><B>BEAUTIFUL</B></FONT></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#CCCCCC" LETTERSPACING="0" KERNING="0"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="7"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="11" COLOR="#333333" LETTERSPACING="0" KERNING="0">WebDesignFan is a design related blog about web design, photoshop, freebies and tutorials. We publish useful information dedicated to web designers and developers. Here you can find free resources like vectors, wordpress themes and a lot of inspiration.</FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/Geometry.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Geometry</html5Url>
+					<className>org.silex.ui.Rectangle</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Rectangle]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">4</y>
+						<x type="Integer">457</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">33</height>
+						<width><![CDATA[77]]></width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<nbSides type="Integer">6</nbSides>
+						<nbBranches type="Integer">5</nbBranches>
+						<rInterne type="Integer">25</rInterne>
+						<miterLimit type="Integer">3</miterLimit>
+						<jointStyle><![CDATA[round]]></jointStyle>
+						<capsStyle><![CDATA[none]]></capsStyle>
+						<noScale><![CDATA[normal]]></noScale>
+						<pixelHinting type="Boolean">true</pixelHinting>
+						<shape><![CDATA[Rectangle]]></shape>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<fusionMode><![CDATA[substract]]></fusionMode>
+						<dropShadowBlurY type="Integer">0</dropShadowBlurY>
+						<dropShadowBlurX type="Integer">0</dropShadowBlurX>
+						<dropShadowAngle type="Integer">0</dropShadowAngle>
+						<dropShadowDistance type="Integer">5</dropShadowDistance>
+						<dropShadowColor type="Integer">0</dropShadowColor>
+						<dropShadowAlpha type="Integer">1</dropShadowAlpha>
+						<dropShadow type="Boolean">false</dropShadow>
+						<gradientRotation type="Integer">0</gradientRotation>
+						<gradientRatio type="Array">
+							<item type="Integer">0</item>
+							<item type="Integer">255</item>
+						</gradientRatio>
+						<gradientAlpha type="Array">
+							<item type="Integer">100</item>
+							<item type="Integer">100</item>
+						</gradientAlpha>
+						<gradientColors type="Array">
+							<item type="Integer">12237498</item>
+							<item type="Integer">6316128</item>
+						</gradientColors>
+						<bitmapFillSmooth type="Boolean">false</bitmapFillSmooth>
+						<bitmapFillRepeat type="Boolean">true</bitmapFillRepeat>
+						<bitmapFillUrl><![CDATA[plugins/baseComponents/geometry_tile.swf]]></bitmapFillUrl>
+						<fill><![CDATA[solid]]></fill>
+						<bgColor type="Integer">3355443</bgColor>
+						<bgAlpha type="Integer">80</bgAlpha>
+						<borderAlpha type="Integer">100</borderAlpha>
+						<lineThickness type="Integer">1</lineThickness>
+						<borderColor type="Integer">16711680</borderColor>
+						<border type="Boolean">false</border>
+						<BLcornerRadius type="Integer">10</BLcornerRadius>
+						<BRcornerRadius type="Integer">10</BRcornerRadius>
+						<TRcornerRadius type="Integer">10</TRcornerRadius>
+						<TLcornerRadius type="Integer">10</TLcornerRadius>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

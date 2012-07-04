@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seoData version="2">
+	<layerSeo deeplink="">
+		<title>plugins</title>
+		<pubDate>Fri Jun 8 13:59:02 GMT+0200 2012</pubDate>
+		<components>
+			<component>
+				<playerName>label_btn_plus_cadre_05.cmp</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="14" COLOR="#FFFFFF"><b>((<<silex.paramsFile.btn:manage:manage:activate>>))</b></FONT></p>]]></htmlEquivalent>
+				<iconPageName>plugins.activate</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>plugins.activate</title>
+						<link>plugins.activate</link>
+						<deeplink>plugins.activate</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>Text</playerName>
+				<className>org.silex.ui.players.Text</className>
+				<iconIsIcon>true</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><p align="center"><font face="arial" size="16" color="#3B3024">((<<silex.paramsFile.manage:text:22>>))</font></p></p>]]></htmlEquivalent>
+				<iconPageName>plugins.home</iconPageName>
+				<text><![CDATA[((>)) ]]></text>
+				<links>
+					<link>
+						<title>plugins.home</title>
+						<link>plugins.home</link>
+						<deeplink>plugins.home</deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>RichTextList_01_installed</playerName>
+				<className>org.oof.lists.RichTextList</className>
+				<iconIsIcon>true</iconIsIcon>
+				<iconPageName>plugins.configure</iconPageName>
+				<iconDeeplinkName><![CDATA[plugins.configure.<<RichTextList_01_installed.selectedItem.label>>]]></iconDeeplinkName>
+				<links>
+					<link>
+						<title>plugins.configure</title>
+						<link>plugins.configure</link>
+						<deeplink><![CDATA[plugins.configure.<<richtextlist_01_installed.selecteditem.label>>]]></deeplink>
+					</link>
+				</links>
+			</component>
+			<component>
+				<playerName>listUi_manager_haut.cmp.swf</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>listUi_manager_bas.cmp.swf</playerName>
+				<className>org.oof.ui.ListUi</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>BackgroundListPlugins</playerName>
+				<className>org.silex.ui.Geometry</className>
+				<iconIsIcon>false</iconIsIcon>
+			</component>
+			<component>
+				<playerName>label_btn_plus_cadre_01.cmp.swf</playerName>
+				<className>org.silex.ui.UiBase</className>
+				<iconIsIcon>false</iconIsIcon>
+				<htmlEquivalent><![CDATA[<p><FONT FACE="Arial" SIZE="14" COLOR="#FFFFFF"><b>((<<silex.paramsFile.btn:manage:save>>))</b></FONT></p>]]></htmlEquivalent>
+				<text><![CDATA[((>)) ]]></text>
+			</component>
+		</components>
+	</layerSeo>
+</seoData>

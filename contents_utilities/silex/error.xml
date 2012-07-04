@@ -1,0 +1,76 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="0" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.SWF</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[skull_anim]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">95</y>
+						<x type="Integer">93</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">79</height>
+						<width type="Integer">64</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/portable_app/skull_anim.swf]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Text]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">190</y>
+						<x type="Integer">0</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Integer">58</height>
+						<width type="Float">249.949979991997</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="_sans" SIZE="20" COLOR="#C8C800" LETTERSPACING="0" KERNING="0"><B>unexpected error</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="_sans" SIZE="16" COLOR="#C8C800" LETTERSPACING="0" KERNING="1"><B>((&lt;&lt;silex.config.errorMessagge&gt;&gt;))</B><FONT SIZE="20"></FONT></FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>

@@ -1,0 +1,574 @@
+﻿<layer>
+	<subLayers>
+		<subLayer zIndex="15" id="fade">
+			<components>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Text.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Text</html5Url>
+					<className>org.silex.ui.players.Text</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Footer]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">765</y>
+						<x type="Integer">304</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Float">27.5</height>
+						<width type="Integer">415</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<wordWrap type="Boolean">true</wordWrap>
+						<type><![CDATA[dynamic]]></type>
+						<password type="Boolean">false</password>
+						<mouseWheelEnabled type="Boolean">true</mouseWheelEnabled>
+						<backgroundColor type="Integer">16777215</backgroundColor>
+						<background type="Boolean">false</background>
+						<borderColor type="Integer">0</borderColor>
+						<border type="Boolean">false</border>
+						<multiline type="Boolean">true</multiline>
+						<selectable type="Boolean">true</selectable>
+						<scrollbar type="Boolean">false</scrollbar>
+						<embedFonts type="Boolean">false</embedFonts>
+						<htmlText><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Times New Roman" SIZE="15" COLOR="#979890" LETTERSPACING="0" KERNING="0">Copyright 2048 <FONT COLOR="#FFFFFF"><U>Your Compagny Name</U><FONT COLOR="#006600"> </FONT></FONT>| <FONT COLOR="#FFFFFF"><U>Website templates</U><FONT COLOR="#006600"> </FONT></FONT>by<FONT COLOR="#006600"> <FONT COLOR="#FFFFFF"><U>Silex</U></FONT></FONT></FONT></P></TEXTFORMAT>]]></htmlText>
+						<html type="Boolean">true</html>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/silexComponents/as2/labelButton/labelButton.swf</as2Url>
+					<html5Url>plugins/silexComponents/html5#org.silex.ui.components.buttons.LabelButtonBase</html5Url>
+					<className>org.silex.ui.components.buttons.LabelButtonBase</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[BoutonContact]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">247.5</y>
+						<x type="Integer">706</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[contact]]></iconPageName>
+						<label><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT>]]></label>
+						<imageUrl><![CDATA[media/]]></imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<wordWrap type="Boolean">false</wordWrap>
+						<autoSize type="Boolean">true</autoSize>
+						<buttonLabelPress><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT>]]></buttonLabelPress>
+						<buttonLabelOver><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT>]]></buttonLabelOver>
+						<buttonLabelSelect><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009 LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT>]]></buttonLabelSelect>
+						<buttonLabelNormal><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Contact</FONT></P></TEXTFORMAT>]]></buttonLabelNormal>
+						<centeredHoriz type="Boolean">true</centeredHoriz>
+						<height type="Integer">34</height>
+						<width type="Integer">103</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/silexComponents/as2/labelButton/labelButton.swf</as2Url>
+					<html5Url>plugins/silexComponents/html5#org.silex.ui.components.buttons.LabelButtonBase</html5Url>
+					<className>org.silex.ui.components.buttons.LabelButtonBase</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[BoutonGallerie]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">247.5</y>
+						<x type="Integer">582</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[gallerie]]></iconPageName>
+						<label><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT>]]></label>
+						<imageUrl><![CDATA[media/]]></imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<wordWrap type="Boolean">false</wordWrap>
+						<autoSize type="Boolean">true</autoSize>
+						<buttonLabelPress><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT>]]></buttonLabelPress>
+						<buttonLabelOver><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT>]]></buttonLabelOver>
+						<buttonLabelSelect><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT>]]></buttonLabelSelect>
+						<buttonLabelNormal><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Gallerie</FONT></P></TEXTFORMAT>]]></buttonLabelNormal>
+						<centeredHoriz type="Boolean">true</centeredHoriz>
+						<height type="Integer">34</height>
+						<width type="Integer">103</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/silexComponents/as2/labelButton/labelButton.swf</as2Url>
+					<html5Url>plugins/silexComponents/html5#org.silex.ui.components.buttons.LabelButtonBase</html5Url>
+					<className>org.silex.ui.components.buttons.LabelButtonBase</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[BoutonServices]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">247.5</y>
+						<x type="Integer">457</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[services]]></iconPageName>
+						<label><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT>]]></label>
+						<imageUrl><![CDATA[media/]]></imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<wordWrap type="Boolean">false</wordWrap>
+						<autoSize type="Boolean">true</autoSize>
+						<buttonLabelPress><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT>]]></buttonLabelPress>
+						<buttonLabelOver><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT>]]></buttonLabelOver>
+						<buttonLabelSelect><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT>]]></buttonLabelSelect>
+						<buttonLabelNormal><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Services</FONT></P></TEXTFORMAT>]]></buttonLabelNormal>
+						<centeredHoriz type="Boolean">true</centeredHoriz>
+						<height type="Integer">34</height>
+						<width type="Integer">103</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/silexComponents/as2/labelButton/labelButton.swf</as2Url>
+					<html5Url>plugins/silexComponents/html5#org.silex.ui.components.buttons.LabelButtonBase</html5Url>
+					<className>org.silex.ui.components.buttons.LabelButtonBase</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[BoutonAbout]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">247.5</y>
+						<x type="Integer">331</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[about]]></iconPageName>
+						<label><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT>]]></label>
+						<imageUrl><![CDATA[media/]]></imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<wordWrap type="Boolean">false</wordWrap>
+						<autoSize type="Boolean">true</autoSize>
+						<buttonLabelPress><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT>]]></buttonLabelPress>
+						<buttonLabelOver><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT>]]></buttonLabelOver>
+						<buttonLabelSelect><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT>]]></buttonLabelSelect>
+						<buttonLabelNormal><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">About</FONT></P></TEXTFORMAT>]]></buttonLabelNormal>
+						<centeredHoriz type="Boolean">true</centeredHoriz>
+						<height type="Integer">34</height>
+						<width type="Integer">103</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/silexComponents/as2/labelButton/labelButton.swf</as2Url>
+					<html5Url>plugins/silexComponents/html5#org.silex.ui.components.buttons.LabelButtonBase</html5Url>
+					<className>org.silex.ui.components.buttons.LabelButtonBase</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[BoutonHome]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">247.5</y>
+						<x type="Integer">203</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">true</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[home]]></iconPageName>
+						<label><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT>]]></label>
+						<imageUrl><![CDATA[media/]]></imageUrl>
+						<delay type="Integer">0</delay>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<clickable type="Boolean">true</clickable>
+						<easingDuration type="Integer">3</easingDuration>
+						<followMouse type="Boolean">false</followMouse>
+						<wordWrap type="Boolean">false</wordWrap>
+						<autoSize type="Boolean">true</autoSize>
+						<buttonLabelPress><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT>]]></buttonLabelPress>
+						<buttonLabelOver><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT>]]></buttonLabelOver>
+						<buttonLabelSelect><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#c30009" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT>]]></buttonLabelSelect>
+						<buttonLabelNormal><![CDATA[<TEXTFORMAT LEADING="2"><P><FONT FACE="Times New Roman" SIZE="17" COLOR="#ffffff" LETTERSPACING="0" KERNING="0">Home</FONT></P></TEXTFORMAT>]]></buttonLabelNormal>
+						<centeredHoriz type="Boolean">true</centeredHoriz>
+						<height type="Integer">34</height>
+						<width type="Integer">103</width>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/Geometry.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Geometry</html5Url>
+					<className>org.silex.ui.GradientRectangle</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[Footer]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Float">749.5</y>
+						<x type="Integer">-768</x>
+						<alpha type="Integer">100</alpha>
+						<height type="Float">71.5</height>
+						<width type="Integer">2500</width>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<miterLimit type="Integer">3</miterLimit>
+						<jointStyle><![CDATA[round]]></jointStyle>
+						<capsStyle><![CDATA[none]]></capsStyle>
+						<noScale><![CDATA[normal]]></noScale>
+						<pixelHinting type="Boolean">true</pixelHinting>
+						<shape><![CDATA[Rectangle]]></shape>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<fusionMode><![CDATA[normal]]></fusionMode>
+						<dropShadowBlurY type="Integer">0</dropShadowBlurY>
+						<dropShadowBlurX type="Integer">0</dropShadowBlurX>
+						<dropShadowAngle type="Integer">0</dropShadowAngle>
+						<dropShadowDistance type="Integer">5</dropShadowDistance>
+						<dropShadowColor type="Integer">0</dropShadowColor>
+						<dropShadowAlpha type="Integer">1</dropShadowAlpha>
+						<dropShadow type="Boolean">false</dropShadow>
+						<gradientRotation type="Integer">90</gradientRotation>
+						<gradientRatio type="Array">
+							<item type="Integer">0</item>
+							<item type="Integer">255</item>
+						</gradientRatio>
+						<gradientAlpha type="Array">
+							<item type="Integer">50</item>
+							<item type="Integer">50</item>
+						</gradientAlpha>
+						<gradientColors type="Array">
+							<item type="Integer">16711680</item>
+							<item type="Integer">10027008</item>
+						</gradientColors>
+						<bitmapFillSmooth type="Boolean">false</bitmapFillSmooth>
+						<bitmapFillRepeat type="Boolean">true</bitmapFillRepeat>
+						<bitmapFillUrl><![CDATA[media/logosilex.jpg]]></bitmapFillUrl>
+						<bgColor type="Integer">594455</bgColor>
+						<bgAlpha type="Integer">100</bgAlpha>
+						<borderAlpha type="Integer">100</borderAlpha>
+						<lineThickness type="Integer">1</lineThickness>
+						<borderColor type="Integer">396047</borderColor>
+						<border type="Boolean">false</border>
+						<BLcornerRadius type="Integer">0</BLcornerRadius>
+						<BRcornerRadius type="Integer">0</BRcornerRadius>
+						<TRcornerRadius type="Integer">0</TRcornerRadius>
+						<TLcornerRadius type="Integer">0</TLcornerRadius>
+						<fill><![CDATA[linear]]></fill>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.JPG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[templatemo_content]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">322</y>
+						<x type="Integer">-288</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">428</height>
+						<width type="Integer">1600</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_content02.jpg]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[logo]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">29</y>
+						<x type="Integer">430</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">true</useHandCursor>
+						<height type="Integer">110</height>
+						<width type="Integer">187</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_logo.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.JPG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[header01]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">0</y>
+						<x type="Integer">-290</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">215</height>
+						<width type="Integer">1600</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatmeo_header02.jpg]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[bg_menu]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">219</y>
+						<x type="Integer">189</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">true</iconIsDefault>
+						<iconIsIcon type="Boolean">true</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[Home]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">103</height>
+						<width type="Integer">134</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_bg.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[bg_menu2]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">220</y>
+						<x type="Integer">316</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">103</height>
+						<width type="Integer">134</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_bg.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[bg_menu3]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">220</y>
+						<x type="Integer">441</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">103</height>
+						<width type="Integer">134</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_bg.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[bg_menu4]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">220</y>
+						<x type="Integer">567</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">103</height>
+						<width type="Integer">134</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_bg.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.PNG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[bg_menu5]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">220</y>
+						<x type="Integer">691</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">103</height>
+						<width type="Integer">134</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_bg.png]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+				<component>
+					<as2Url>plugins/baseComponents/as2/org.silex.ui.players.Image.swf</as2Url>
+					<html5Url>plugins/baseComponents/html5#org.silex.ui.Image</html5Url>
+					<className>org.silex.ui.players.Image.JPG</className>
+					<componentRoot>main</componentRoot>
+					<properties>
+						<playerName><![CDATA[header02]]></playerName>
+						<rotation type="Integer">0</rotation>
+						<y type="Integer">215</y>
+						<x type="Integer">-290</x>
+						<alpha type="Integer">100</alpha>
+						<tabIndex type="Integer">1</tabIndex>
+						<tabEnabled type="Boolean">false</tabEnabled>
+						<visibleOutOfAdmin type="Boolean">true</visibleOutOfAdmin>
+						<iconIsDefault type="Boolean">false</iconIsDefault>
+						<iconIsIcon type="Boolean">false</iconIsIcon>
+						<iconLayoutName><![CDATA[minimal.swf]]></iconLayoutName>
+						<iconPageName><![CDATA[new page name]]></iconPageName>
+						<fadeInStep type="Integer">100</fadeInStep>
+						<tabChildren type="Boolean">false</tabChildren>
+						<_focusrect type="Boolean">false</_focusrect>
+						<visibleFrame_bool type="Boolean">false</visibleFrame_bool>
+						<scaleMode><![CDATA[none]]></scaleMode>
+						<useHandCursor type="Boolean">false</useHandCursor>
+						<height type="Integer">107</height>
+						<width type="Integer">1600</width>
+						<clickable type="Boolean">true</clickable>
+						<url><![CDATA[media/wall_shelf/templatemo_menu_02.jpg]]></url>
+					</properties>
+					<actions></actions>
+				</component>
+			</components>
+		</subLayer>
+	</subLayers>
+</layer>
